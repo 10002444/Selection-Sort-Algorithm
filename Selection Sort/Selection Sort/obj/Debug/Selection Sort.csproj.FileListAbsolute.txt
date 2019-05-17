@@ -1,0 +1,7 @@
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe.config
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csprojAssemblyReference.cache
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csproj.CoreCompileInputs.cache
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\obj\Debug\Selection Sort.exe
+H:\Desktop\6211 - Jacob\Selection-Sort-Algorithm\Selection Sort\Selection Sort\obj\Debug\Selection Sort.pdb
